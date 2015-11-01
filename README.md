@@ -1,5 +1,3 @@
-# Pentesting and Metasploit Log
-
-## Metasploit, Penetration Tester's Guide
+# pwn: A log of CTF and Offensive Security preparation.
 
 
